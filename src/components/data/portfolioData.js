@@ -69,10 +69,10 @@ export const portafolioData = [
 	},
 	{
 		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
-		title: 'Restaurant',
+		title: 'UTEPSA',
 		skills: ['React', 'StyledComponents'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Diseño Interactivo',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-right',
